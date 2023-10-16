@@ -1,8 +1,19 @@
 body {
-  background-color: blue;
-  font-family: Helvetica;
-}
+    background-color: rgb(67, 67, 185);
+    font-family: Helvetica;
+  }
 h1 {
-  color: green;
-  text-align: center;
+    color: rgb(255, 0, 179);
+    text-align: center;
+  }  
+
+.assign {
+    background-color: teal;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign img {
+    width: 200px;
+    margin: 10px;
 }
