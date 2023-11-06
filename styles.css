@@ -26,3 +26,8 @@ a {
     margin: 10px;
     border: 2px dotted rgb(255, 0, 179);
 }
+.assign img:hover {
+    width: 200px;
+    margin: 10px;
+    border: 3px yellowgreen;
+}
