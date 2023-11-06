@@ -6,6 +6,10 @@ h1 {
     color: rgb(255, 0, 179);
     text-align: center;
   }  
+h1:hover {
+    color: hotpink;
+    text-align: center;
+  }  
 a {
     text-decoration: none;
     color: black;
