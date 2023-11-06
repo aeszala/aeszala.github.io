@@ -29,5 +29,5 @@ a {
 .assign img:hover {
     width: 200px;
     margin: 10px;
-    border: 3px yellowgreen;
+    border: 3px red;
 }
